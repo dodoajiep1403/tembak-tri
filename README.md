@@ -1,9 +1,9 @@
 # tembak-three
 Tools Tembak Paket Three
-# Intall:
+# Install:
 # pkg install bash
 # pkg install curl
 # pkg install git
-# git clone https://github.com/Rusmana-ID/tembak-three
-# cd tembak-three
+# git clone https://github.com/dodoajiep1403/tembakmurah
+# cd tembakmurah
 # bash three.sh
